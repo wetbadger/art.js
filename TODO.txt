@@ -1,0 +1,11 @@
+css
+  Dropdown menus for nav (include option for side?)
+  hide radio buttons
+  aside goes on the side, and nave goes on top
+  include a name div
+  simple css for buts
+Parameters
+  provide parameters as a JSON object
+Options
+  option to use or not use thumbnails
+  append or prepend as asc / desc

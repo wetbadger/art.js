@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Title of the page</title>
+    <link href="/style.css"  type="text/css" rel="stylesheet"></link>
+  </head>
+
+  <body>
+    <div class="container">
+      <h3>Vincent Van Gogh</h3>
+      <nav></nav>
+      <aside></aside>
+      <div class="main-label"></div>
+      <div class = "main"></div>
+    </div>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="js/art.js"></script>
+    <script>
+    //start the page on a starting starting folder
+      const rootFolder = "artjs"
+      const textFolder = "TextFiles";
+      const imageFolder = "Images"; //global root folder with list of folders (no images) to display see: index.js
+      const element = ".main"; //global location for art display
+      const start = "Landscapes";
+      const side = "prepend";
+      const nav = "hover";
+      const thumbnails = true;
+      const thumbnailHeight = 240;
+      go();
+    </script>
+  </body>
+</html>

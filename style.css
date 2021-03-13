@@ -1,0 +1,59 @@
+/*
+This is an example style sheet. Feel free to add, change or delete
+*/
+
+.container {
+  text-align: center;
+  position: relative;
+}
+/* The side navigation menu */
+aside {
+  float: left;
+  z-index: 1; /* Stay on top */
+  top: 0; /* Stay at the top */
+  left: 0;
+  position: absolute;
+  padding-top: 20%;
+}
+
+/* The navigation menu links */
+aside label {
+  text-decoration: none;
+  font-size: 25px;
+  color: #818181;
+  display: block;
+}
+
+/* When you mouse over the navigation links, change their color */
+aside a:label {
+  color: #f1f1f1;
+}
+
+/* Position and style the close button (top right corner) */
+nav {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  position: relative;
+}
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f1f1f1;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content #drop {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+li {
+  display: inline;
+}
+.main {
+  display: inline-block;
+}
