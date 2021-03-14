@@ -6,7 +6,8 @@ Titles for files and folders cannot include a single quote! '
 Please note that any images beginning with "_" are treated as thumbnails.
 If a particular image is not showing up, it may be because it begins with "_".
 
-~~~~~~~~THUMBNAILS~~~~~~~~
+\~~~~~~~~THUMBNAILS~~~~~~~~
+
 All thumbnails must be .jpg!
 
 	FOLDER THUMBNAILS:
@@ -35,7 +36,7 @@ Recommended Thumnail dimensions:
 
 (Thumbnails that are not 240px in height will be resized.)
 
-~~~~~~~~NAMING CONVENTIONS~~~~~~~~
+\~~~~~~~~NAMING CONVENTIONS~~~~~~~~
 
 Names of files and folders can include:
 	Letters
@@ -45,15 +46,15 @@ Names of files and folders can include:
 	Underscores(_) <---- .jpg files beginning with "_" will be treated as thumbnails
 !Important: Avoid using quotes (", ') in names!
 
-~~~~~~~~IMAGE SIZES~~~~~~~~
+\~~~~~~~~IMAGE SIZES~~~~~~~~
 
 Reccommended: full sized images should be no larger than 1200px in height
 
-~~~~~~~~VIDEO SIZE / COMPRESSION /FILE TYPES ~~~~~~~~
+\~~~~~~~~VIDEO SIZE / COMPRESSION /FILE TYPES ~~~~~~~~
 
 Reccommended: h.264 compression to save virtual space
 
-~~~~~~~~ADDING CAPTIONS AND TITLES~~~~~~~~
+\~~~~~~~~ADDING CAPTIONS AND TITLES~~~~~~~~
 
 1. Create a json file with the name "info.json"
 2. Fill it with text in json format starting with an array []:
