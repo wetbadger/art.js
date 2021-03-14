@@ -42,7 +42,7 @@ Names of files and folders can include:
 	Numbers
 	Spaces
 	Hyphens (-)
-	Underscores(_) <---- .jpg files beginning with "_" will be 					treated as thumbnails
+	Underscores(_) <---- .jpg files beginning with "_" will be treated as thumbnails
 !Important: Avoid using quotes (", ') in names!
 
 ~~~~~~~~IMAGE SIZES~~~~~~~~
