@@ -15,15 +15,15 @@ All thumbnails must be .jpg!
 	FOLDER THUMBNAILS:
 To create a thumbnail for a folder add a picture with the same name as the folder, and a .jpg extention.
 Put the image in the same directory as the folder.
-Example:
-	/images/2018/Painting
-	/images/2018/Painting.jpg <---- this is the thumbnail file
+Example:__
+	/images/2018/Painting__
+	/images/2018/Painting.jpg <---- this is the thumbnail file__
 	/images/2018/_Painting.jpg <---- also works
 
 	IMAGE THUMBNAILS:
 To create a thumbnail for an image, make a .jpg that has the same name as the file, but starts with an underscore. "_"
-Example:
-	image.jpg <---- can be .jpg .jpeg .png or .gif
+Example:__
+	image.jpg <---- can be .jpg .jpeg .png or .gif__
 	_image.jpg <---- thumbnail must be .jpg
 
 	MOVIE THUMBNAILS:
