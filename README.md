@@ -1,6 +1,8 @@
 # art.js
 A small javascript app for handling images and directories for web portfolios.
 
+Upload your images into any folder or subfolder and have them show up on your webpage!
+
 Titles for files and folders cannot include a single quote! '
 
 Please note that any images beginning with "_" are treated as thumbnails.
