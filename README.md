@@ -70,4 +70,8 @@ Reccommended: h.264 compression to save virtual space<br />
 	{ ... }, { ... }<br />
 ]<br />
 
-Any field can be left blank. It will simply appear as empty space.
+Any field can be left blank. It will simply appear as empty space.<br/>
+
+Sites currently using art.js:<br />
+<a href="http://yuxinpei.com">yuxinpei.com</a>
+
