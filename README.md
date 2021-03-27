@@ -1,5 +1,5 @@
 # art.js
-Hello, welcome to the README.txt of the art.js portfolio application.
+A small javascript app for handling images and directories for web portfolios.
 
 Titles for files and folders cannot include a single quote! '
 
