@@ -18,14 +18,14 @@
     <script>
     //start the page on a starting starting folder
       const rootFolder = "artjs"
-      const textFolder = "TextFiles";
+      const textFolder = "TextFiles"; //where texfiles or html files are stored in folders such as bio, contact, shows, etc
       const imageFolder = "Images"; //global root folder with list of folders (no images) to display see: index.js
       const element = ".main"; //global location for art display
-      const start = "Landscapes";
-      const side = "prepend";
-      const nav = "hover";
-      const thumbnails = true;
-      const thumbnailHeight = 240;
+      const start = "Landscapes"; //when the page loads, users start in the folder "landscapes"
+      const side = "append"; //the sidebar displays names of folders in the order they appear on the server use "prepend" to reverse
+      const nav = "hover"; //feature not yet availble. should cause a dropdown menue to apear on the navbar
+      const thumbnails = true; //all images require thumbnails
+      const thumbnailHeight = 240; //thumnails are 240 pixels in height
       go();
     </script>
   </body>
