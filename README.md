@@ -5,7 +5,7 @@ Upload your images into any folder or subfolder and have them show up on your we
 
 Titles for files and folders cannot include a single quote! '
 
-Please note that any images beginning with "_" are treated as thumbnails.
+Please note that any images beginning with "\_" are treated as thumbnails.
 If a particular image is not showing up, it may be because it begins with "_".
 
 \~~~~~~~~THUMBNAILS~~~~~~~~
