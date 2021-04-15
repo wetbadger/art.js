@@ -1,5 +1,5 @@
 # art.js
-A small javascript app for handling images and directories for web portfolios.
+A small javascript library for handling images and directories for web portfolios.
 
 Upload your images into any folder or subfolder and have them show up on your webpage!
 
